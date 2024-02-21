@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and information security 
 - 🌱 I’m currently learning Frontend 
 - 💞️ I’m looking to collaborate on yours project
-- 📫 How to reach me in TG: @sleep1otm 
+- 📫 How to reach me in TG: @sleep1tm 
 - 😄 Pronouns: Russia
 - ⚡ Fun fact: life is just a moment
 
